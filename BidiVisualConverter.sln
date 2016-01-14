@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidiVisualConverter", "BidiVisualConverter\BidiVisualConverter.csproj", "{D945EFD4-2F41-4EFE-AAF4-C2FE0B40A338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "BidiVisualConverter\Tests\Tests.csproj", "{33654F6E-27C2-4F5A-9FD0-F477D9C8E9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D945EFD4-2F41-4EFE-AAF4-C2FE0B40A338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D945EFD4-2F41-4EFE-AAF4-C2FE0B40A338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D945EFD4-2F41-4EFE-AAF4-C2FE0B40A338}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D945EFD4-2F41-4EFE-AAF4-C2FE0B40A338}.Debug|x86.Build.0 = Debug|Any CPU
+		{D945EFD4-2F41-4EFE-AAF4-C2FE0B40A338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D945EFD4-2F41-4EFE-AAF4-C2FE0B40A338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D945EFD4-2F41-4EFE-AAF4-C2FE0B40A338}.Release|x86.ActiveCfg = Release|Any CPU
+		{D945EFD4-2F41-4EFE-AAF4-C2FE0B40A338}.Release|x86.Build.0 = Release|Any CPU
+		{33654F6E-27C2-4F5A-9FD0-F477D9C8E9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33654F6E-27C2-4F5A-9FD0-F477D9C8E9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33654F6E-27C2-4F5A-9FD0-F477D9C8E9AD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{33654F6E-27C2-4F5A-9FD0-F477D9C8E9AD}.Debug|x86.Build.0 = Debug|Any CPU
+		{33654F6E-27C2-4F5A-9FD0-F477D9C8E9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33654F6E-27C2-4F5A-9FD0-F477D9C8E9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33654F6E-27C2-4F5A-9FD0-F477D9C8E9AD}.Release|x86.ActiveCfg = Release|Any CPU
+		{33654F6E-27C2-4F5A-9FD0-F477D9C8E9AD}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
