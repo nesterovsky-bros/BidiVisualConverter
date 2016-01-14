@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BidiVisualConverter.csproj">
+    <ProjectReference Include="..\BidiVisualConverter\BidiVisualConverter.csproj">
       <Project>{d945efd4-2f41-4efe-aaf4-c2fe0b40a338}</Project>
       <Name>BidiVisualConverter</Name>
     </ProjectReference>
