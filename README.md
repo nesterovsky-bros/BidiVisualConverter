@@ -25,3 +25,5 @@ such task was when we processed content extracted from PDF. It's turned out that
     ...
   }
 }</pre>
+
+<p><a href="Tests/UnitTest.cs">UnitTest.cs</a> shows how to use this API.</p>
